@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,RegistrationDate,TotalSpent
+301,Mary,Johnson,mary.j@gmail.com,2021-02-10,1250.00
+302,Robert,Williams,robert.w@yahoo.com,2022-05-15,2300.50
+303,Patricia,Smith,patricia.s@outlook.com,2022-09-20,950.25
+304,James,Davis,james.d@mut.ac.uk,2020-12-05,1875.00
+305,Linda,Brown,linda.b@gmail.com,2021-03-18,1420.75
+306,Michael,Wilson,michael.w@outlook.com,2022-07-01,1980.00
+307,Jennifer,Taylor,jennifer.t@outlook.com,2023-01-25,1675.50
+308,William,Miller,william.m@mut.ac.uk,2021-06-12,2150.25
+309,Susan,Anderson,susan.a@yahoo.com,2022-11-30,1200.00
+310,David,Moore,david.m@gmail.com,2023-04-08,800.75

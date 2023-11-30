@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,ManagerID,Location,Budget
+1,Sales,201,New York,1000000.00
+2,Marketing,202,Los Angeles,750000.00
+3,HR,203,Chicago,500000.00
+4,IT,204,San Francisco,800000.00
+5,Finance,205,Boston,600000.00
+6,Operations,206,Dallas,900000.00
+7,Research,207,Atlanta,700000.00
+8,Customer Care,208,Miami,550000.00
+9,Production,209,Denver,850000.00
+10,Legal,210,Seattle,400000.00

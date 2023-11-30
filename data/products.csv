@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice,StockQuantity,SupplierID
+101,Laptop,Electronics,800.00,50,501
+102,Smartphone,Electronics,500.00,75,502
+103,Desk Chair,Furniture,100.00,30,503
+104,Refrigerator,Appliances,700.00,20,504
+105,Headphones,Electronics,50.00,100,505
+106,Sofa,Furniture,600.00,15,506
+107,Microwave,Appliances,150.00,40,507
+108,Running Shoes,Sports,80.00,60,508
+109,Blender,Appliances,40.00,55,509
+110,Tablet,Electronics,300.00,45,510

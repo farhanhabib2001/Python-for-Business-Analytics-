@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,DepartmentID,HireDate,Salary
+201,John,Smith,1,2022-03-15,55000.00
+202,Sarah,Johnson,2,2021-05-20,60000.00
+203,Michael,Brown,1,2023-01-10,52000.00
+204,Emily,Davis,3,2023-08-22,65000.00
+205,David,Wilson,2,2022-11-17,58000.00
+206,Jennifer,Anderson,3,2022-07-05,62000.00
+207,Daniel,Miller,1,2023-04-30,54000.00
+208,Lisa,Martinez,2,2022-06-28,59000.00
+209,James,Taylor,3,2023-02-14,61000.00
+210,Susan,Moore,1,2022-09-03,56000.00
